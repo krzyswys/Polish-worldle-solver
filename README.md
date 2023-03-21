@@ -1,0 +1,1 @@
+# Polish-game-worldle-solver
